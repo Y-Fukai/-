@@ -16,3 +16,7 @@ month of registration　登録月
 fueltype　燃料の種類
 
 brand 　メーカー
+
+not repaired damage  傷がそのままかどうか
+・ Ja　はい
+・ Nein いいえ
