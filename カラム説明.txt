@@ -1,22 +1,20 @@
-offertype
-・gesuch    請願
-・angebot  提供
-
-seller 販売者（中古車ショップに売った人）
-・privat プライベート
-・gewerblich
-
-powerps  馬力
-
-model   型
-
-month of registration   登録年
-month of registration　登録月
-
-fueltype　燃料の種類
-
-brand 　メーカー
-
-not repaired damage  傷がそのままかどうか
-・ Ja　はい
-・ Nein いいえ
+datecrawled		買い取った車をwebに掲載した日
+name			車種
+seller			販売者（中古車ショップに売った人）… privat:プライベート / gewerblich
+offertype			angebot:提供 / gesuch:請願
+price			値段
+abtest			不備の確認
+vehicletype		車のタイプ
+yearOfRegistrationb	登録年
+gearbox			駆動方式
+powerps			馬力
+model			車種の型
+km			走行距離
+monthOfRegistration	登録月
+fueltype			燃料の種類
+brand			メーカー
+notRepairedDamage  	傷がそのままかどうか … Ja:はい / Nein:いいえ
+dateCreated		生産年月日
+nrOfPictures		未修復の傷の写真
+postalCode		車を売った人の住所
+lastseen			最終乗車日
