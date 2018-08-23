@@ -1,0 +1,18 @@
+offertype
+・gesuch    請願
+・angebot  提供
+
+seller 販売者（中古車ショップに売った人）
+・privat プライベート
+・gewerblich
+
+powerps  馬力
+
+model   型
+
+month of registration   登録年
+month of registration　登録月
+
+fueltype　燃料の種類
+
+brand 　メーカー
