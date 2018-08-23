@@ -6,7 +6,7 @@ price			値段
 abtest			ABテスト
 vehicletype		車のタイプ
 yearOfRegistrationb	登録年
-gearbox			駆動方式
+gearbox			マニュアル or オートマ
 powerps			馬力
 model			車種の型
 km			走行距離
