@@ -1,5 +1,5 @@
-drop table if exists test;
-create table test
+DROP TABLE IF EXISTS test;
+CREATE TABLE test
 (
   ps TEXT
   , ss TEXT
