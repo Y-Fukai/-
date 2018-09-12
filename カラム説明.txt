@@ -1,3 +1,4 @@
+カラム名		カラム説明
 datecrawled		車をwebに出品した日
 name			車種
 seller			出品者 … privat:私用 / gewerblich:商用
@@ -18,3 +19,5 @@ dateCreated		会員登録日
 nrOfPictures		未修復の傷の写真
 postalCode		車を出品した人の住所
 lastseen		最終閲覧日
+
+Germany Old-car
