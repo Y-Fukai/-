@@ -8,3 +8,5 @@ create table test
   , ney INTEGER
 )
 ;
+
+SELECT * FROM test;
