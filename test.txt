@@ -1,0 +1,10 @@
+drop table if exists test;
+create table test
+(
+  ps TEXT
+  , ss TEXT
+  , cr INTEGER
+  , lm INTEGER
+  , ney INTEGER
+)
+;
